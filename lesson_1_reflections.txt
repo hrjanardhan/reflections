@@ -1,0 +1,16 @@
+Viewing difference enables us to find the difference in content between two files
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Instead of saving a file into different file names, we can store it with a single file name, and access previous versions easily.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+We can decide when to commit based on a logical change. We might forget to commit.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Google docs is centric to general docs. While git concentrates in projects where multiple files are involved.s
+
+How can you use the commands git log and git diff to view the history of files?
+git log is used to view the stats about when the commit was made, by who and when. It also displays the number of lines added and removed.
+
+Git diff commid_id_1 commit_id_2 is used to view the difference between the two commits.
