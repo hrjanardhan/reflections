@@ -14,3 +14,12 @@ How can you use the commands git log and git diff to view the history of files?
 git log is used to view the stats about when the commit was made, by who and when. It also displays the number of lines added and removed.
 
 Git diff commid_id_1 commit_id_2 is used to view the difference between the two commits.
+
+How might using version control make you more confident to make changes that could break something?
+I can restore to a previous versions
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branching out with new feature without compromising the old one.
+
+How do the diagrams help you visualize the branch structure?
+Helps to identify the lineage 
